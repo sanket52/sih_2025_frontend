@@ -1,11 +1,10 @@
 import React from "react";
 import Theme from "./Theme";
-import Same from "./Same";
 import SmartIndia from "./SmartIndia";
 import Flow from "./Flow";
 import MileStone from "./MileStone";
 import Organisers from "./Organisers";
-
+import Smart from "./Smart";
 
 
 const Home = () => {
@@ -13,7 +12,7 @@ const Home = () => {
     <div>
      
       <Theme />
-       <Same />
+     <Smart/>
       <SmartIndia />
       <Flow />
       <MileStone />

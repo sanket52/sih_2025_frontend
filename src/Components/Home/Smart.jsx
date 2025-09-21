@@ -1,6 +1,6 @@
 import React from "react";
 
-const Same = () => {
+const Smart = () => {
   return (
     <div   style={{ backgroundColor: "#fff6ee", margin: "0%", padding: "0%" }}> 
     <div className="container mt-5 mb-5">
@@ -71,4 +71,4 @@ const Same = () => {
   );
 };
 
-export default Same;
+export default Smart;
