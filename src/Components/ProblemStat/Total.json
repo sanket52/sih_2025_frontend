@@ -1,0 +1,452 @@
+[
+  {
+    "sNo": 21,
+    "organization": "Ministry of Rural Development",
+    "problemStatementTitle": "AI-powered platform for predicting and managing rural employment schemes.",
+    "category": "Software",
+    "psNumber": "SIH25020",
+    "submittedIdeasCount": "4/300",
+    "theme": "Social Welfare"
+  },
+  {
+    "sNo": 22,
+    "organization": "Ministry of Tribal Affairs",
+    "problemStatementTitle": "Digital repository and e-commerce platform for tribal art and handicrafts.",
+    "category": "Software",
+    "psNumber": "SIH25021",
+    "submittedIdeasCount": "2/300",
+    "theme": "Heritage & Culture"
+  },
+  {
+    "sNo": 23,
+    "organization": "Ministry of Textiles",
+    "problemStatementTitle": "IoT-based system for real-time monitoring of textile machinery for efficiency and safety.",
+    "category": "Hardware",
+    "psNumber": "SIH25022",
+    "submittedIdeasCount": "1/300",
+    "theme": "Industry & Innovation"
+  },
+  {
+    "sNo": 24,
+    "organization": "Government of Uttar Pradesh",
+    "problemStatementTitle": "AI-based flood prediction and early warning system for river basins.",
+    "category": "Software",
+    "psNumber": "SIH25023",
+    "submittedIdeasCount": "5/300",
+    "theme": "Disaster Management"
+  },
+  {
+    "sNo": 25,
+    "organization": "Government of Rajasthan",
+    "problemStatementTitle": "Hardware solution for monitoring groundwater levels and controlling water pumps in arid regions.",
+    "category": "Hardware",
+    "psNumber": "SIH25024",
+    "submittedIdeasCount": "0/300",
+    "theme": "Environment & Sustainability"
+  },
+  {
+    "sNo": 26,
+    "organization": "Ministry of Finance",
+    "problemStatementTitle": "Blockchain-based system for transparent and secure government fund disbursement.",
+    "category": "Software",
+    "psNumber": "SIH25025",
+    "submittedIdeasCount": "6/300",
+    "theme": "Blockchain & Cybersecurity"
+  },
+  {
+    "sNo": 27,
+    "organization": "Ministry of Food Processing Industries",
+    "problemStatementTitle": "IoT sensors for real-time monitoring of cold chain logistics for perishable goods.",
+    "category": "Hardware",
+    "psNumber": "SIH25026",
+    "submittedIdeasCount": "3/300",
+    "theme": "Food & Agriculture"
+  },
+  {
+    "sNo": 28,
+    "organization": "Government of Telangana",
+    "problemStatementTitle": "AI-powered chatbot for citizen services and grievance redressal.",
+    "category": "Software",
+    "psNumber": "SIH25027",
+    "submittedIdeasCount": "7/300",
+    "theme": "Smart Governance"
+  },
+  {
+    "sNo": 29,
+    "organization": "Ministry of Fisheries",
+    "problemStatementTitle": "AI-based disease detection and health monitoring system for fish farms.",
+    "category": "Software",
+    "psNumber": "SIH25028",
+    "submittedIdeasCount": "1/300",
+    "theme": "Agriculture & Sustainability"
+  },
+  {
+    "sNo": 30,
+    "organization": "Ministry of Ports, Shipping and Waterways",
+    "problemStatementTitle": "Smart dock management system using AI for efficient cargo handling.",
+    "category": "Software",
+    "psNumber": "SIH25029",
+    "submittedIdeasCount": "2/300",
+    "theme": "Transportation & Logistics"
+  },
+  {
+    "sNo": 31,
+    "organization": "Ministry of External Affairs",
+    "problemStatementTitle": "AI-driven sentiment analysis of international news for policy recommendations.",
+    "category": "Software",
+    "psNumber": "SIH25030",
+    "submittedIdeasCount": "0/300",
+    "theme": "Smart Governance"
+  },
+  {
+    "sNo": 32,
+    "organization": "Ministry of Law and Justice",
+    "problemStatementTitle": "AI tool for legal document analysis and case summarization.",
+    "category": "Software",
+    "psNumber": "SIH25031",
+    "submittedIdeasCount": "1/300",
+    "theme": "Law & Public Policy"
+  },
+  {
+    "sNo": 33,
+    "organization": "Ministry of Power",
+    "problemStatementTitle": "Hardware solution for smart grid management using IoT and predictive analytics.",
+    "category": "Hardware",
+    "psNumber": "SIH25032",
+    "submittedIdeasCount": "4/300",
+    "theme": "Smart Automation"
+  },
+  {
+    "sNo": 34,
+    "organization": "Government of Gujarat",
+    "problemStatementTitle": "IoT-based marine pollution monitoring system for coastal areas.",
+    "category": "Hardware",
+    "psNumber": "SIH25033",
+    "submittedIdeasCount": "2/300",
+    "theme": "Environment & Sustainability"
+  },
+  {
+    "sNo": 35,
+    "organization": "Ministry of Coal",
+    "problemStatementTitle": "AI and drone-based system for monitoring illegal mining activities.",
+    "category": "Software",
+    "psNumber": "SIH25034",
+    "submittedIdeasCount": "0/300",
+    "theme": "Blockchain & Cybersecurity"
+  },
+  {
+    "sNo": 36,
+    "organization": "Ministry of Social Justice and Empowerment",
+    "problemStatementTitle": "AI-enabled accessible education platform for students with disabilities.",
+    "category": "Software",
+    "psNumber": "SIH25035",
+    "submittedIdeasCount": "3/300",
+    "theme": "Social Welfare"
+  },
+  {
+    "sNo": 37,
+    "organization": "Ministry of Civil Aviation",
+    "problemStatementTitle": "Smart airport baggage handling system using AI and computer vision.",
+    "category": "Software",
+    "psNumber": "SIH25036",
+    "submittedIdeasCount": "1/300",
+    "theme": "Transportation & Logistics"
+  },
+  {
+    "sNo": 38,
+    "organization": "Government of Punjab",
+    "problemStatementTitle": "IoT-based air quality monitoring network for industrial zones.",
+    "category": "Hardware",
+    "psNumber": "SIH25037",
+    "submittedIdeasCount": "2/300",
+    "theme": "Environment & Sustainability"
+  },
+  {
+    "sNo": 39,
+    "organization": "Ministry of Micro, Small and Medium Enterprises",
+    "problemStatementTitle": "Blockchain-based supply chain management system for small businesses.",
+    "category": "Software",
+    "psNumber": "SIH25038",
+    "submittedIdeasCount": "0/300",
+    "theme": "Industry & Innovation"
+  },
+  {
+    "sNo": 40,
+    "organization": "Ministry of Defence",
+    "problemStatementTitle": "Hardware for secure and encrypted communication devices for military use.",
+    "category": "Hardware",
+    "psNumber": "SIH25039",
+    "submittedIdeasCount": "2/300",
+    "theme": "Blockchain & Cybersecurity"
+  },
+  {
+    "sNo": 41,
+    "organization": "Government of Odisha",
+    "problemStatementTitle": "AI-based forest fire detection and risk assessment system.",
+    "category": "Software",
+    "psNumber": "SIH25040",
+    "submittedIdeasCount": "1/300",
+    "theme": "Disaster Management"
+  },
+  {
+    "sNo": 42,
+    "organization": "Ministry of Housing and Urban Affairs",
+    "problemStatementTitle": "Smart waste management system using IoT sensors and AI optimization.",
+    "category": "Hardware",
+    "psNumber": "SIH25041",
+    "submittedIdeasCount": "5/300",
+    "theme": "Smart Cities"
+  },
+  {
+    "sNo": 43,
+    "organization": "Government of Haryana",
+    "problemStatementTitle": "AI-based tool for crop disease and pest identification using drone imagery.",
+    "category": "Software",
+    "psNumber": "SIH25042",
+    "submittedIdeasCount": "3/300",
+    "theme": "Agriculture & Sustainability"
+  },
+  {
+    "sNo": 44,
+    "organization": "Ministry of Tourism",
+    "problemStatementTitle": "VR/AR application for virtual tours of historical sites and monuments.",
+    "category": "Software",
+    "psNumber": "SIH25043",
+    "submittedIdeasCount": "4/300",
+    "theme": "Travel & Tourism"
+  },
+  {
+    "sNo": 45,
+    "organization": "Ministry of Education",
+    "problemStatementTitle": "Gamified learning platform for teaching complex scientific concepts.",
+    "category": "Software",
+    "psNumber": "SIH25044",
+    "submittedIdeasCount": "2/300",
+    "theme": "Education & Research"
+  },
+  {
+    "sNo": 46,
+    "organization": "Ministry of AYUSH",
+    "problemStatementTitle": "AI-driven personalized recommendation system for traditional medicine.",
+    "category": "Software",
+    "psNumber": "SIH25045",
+    "submittedIdeasCount": "1/300",
+    "theme": "MedTech / BioTech / HealthTech"
+  },
+  {
+    "sNo": 47,
+    "organization": "Government of Jharkhand",
+    "problemStatementTitle": "IoT-based system for real-time monitoring of mining safety conditions.",
+    "category": "Hardware",
+    "psNumber": "SIH25046",
+    "submittedIdeasCount": "0/300",
+    "theme": "Industry & Innovation"
+  },
+  {
+    "sNo": 48,
+    "organization": "Ministry of Health and Family Welfare",
+    "problemStatementTitle": "AI-powered diagnostic tool for retinal scans to detect early-stage diabetes.",
+    "category": "Software",
+    "psNumber": "SIH25047",
+    "submittedIdeasCount": "6/300",
+    "theme": "MedTech / BioTech / HealthTech"
+  },
+  {
+    "sNo": 49,
+    "organization": "Government of Himachal Pradesh",
+    "problemStatementTitle": "Hardware solution for avalanche detection and early warning system.",
+    "category": "Hardware",
+    "psNumber": "SIH25048",
+    "submittedIdeasCount": "1/300",
+    "theme": "Disaster Management"
+  },
+  {
+    "sNo": 50,
+    "organization": "Ministry of Road Transport and Highways",
+    "problemStatementTitle": "AI-based traffic signal optimization for reducing urban congestion.",
+    "category": "Software",
+    "psNumber": "SIH25049",
+    "submittedIdeasCount": "7/300",
+    "theme": "Transportation & Logistics"
+  },
+  {
+    "sNo": 51,
+    "organization": "Ministry of Jal Shakti",
+    "problemStatementTitle": "IoT-based smart water meter for monitoring and managing household water consumption.",
+    "category": "Hardware",
+    "psNumber": "SIH25050",
+    "submittedIdeasCount": "2/300",
+    "theme": "Environment & Sustainability"
+  },
+  {
+    "sNo": 52,
+    "organization": "Government of Goa",
+    "problemStatementTitle": "AI-powered tourist safety app with geo-fencing and real-time alerts for beaches.",
+    "category": "Software",
+    "psNumber": "SIH25051",
+    "submittedIdeasCount": "3/300",
+    "theme": "Travel & Tourism"
+  },
+  {
+    "sNo": 53,
+    "organization": "Ministry of Corporate Affairs",
+    "problemStatementTitle": "Blockchain-based system for secure and verifiable company registration and ownership records.",
+    "category": "Software",
+    "psNumber": "SIH25052",
+    "submittedIdeasCount": "0/300",
+    "theme": "Blockchain & Cybersecurity"
+  },
+  {
+    "sNo": 54,
+    "organization": "Ministry of Chemicals and Fertilizers",
+    "problemStatementTitle": "AI-based platform for predicting demand and supply of essential chemicals.",
+    "category": "Software",
+    "psNumber": "SIH25053",
+    "submittedIdeasCount": "1/300",
+    "theme": "Industry & Innovation"
+  },
+  {
+    "sNo": 55,
+    "organization": "Government of Assam",
+    "problemStatementTitle": "AI and drone-based system for monitoring and preventing illegal poaching in Kaziranga National Park.",
+    "category": "Hardware",
+    "psNumber": "SIH25054",
+    "submittedIdeasCount": "2/300",
+    "theme": "Environment & Sustainability"
+  },
+  {
+    "sNo": 56,
+    "organization": "Ministry of Women and Child Development",
+    "problemStatementTitle": "AI-powered platform for early identification of malnourished children.",
+    "category": "Software",
+    "psNumber": "SIH25055",
+    "submittedIdeasCount": "4/300",
+    "theme": "Social Welfare"
+  },
+  {
+    "sNo": 57,
+    "organization": "Ministry of Petroleum and Natural Gas",
+    "problemStatementTitle": "IoT sensors for real-time leak detection in natural gas pipelines.",
+    "category": "Hardware",
+    "psNumber": "SIH25056",
+    "submittedIdeasCount": "1/300",
+    "theme": "Energy & Resources"
+  },
+  {
+    "sNo": 58,
+    "organization": "Government of Madhya Pradesh",
+    "problemStatementTitle": "AI-based land record digitization and verification system.",
+    "category": "Software",
+    "psNumber": "SIH25057",
+    "submittedIdeasCount": "3/300",
+    "theme": "Smart Governance"
+  },
+  {
+    "sNo": 59,
+    "organization": "Ministry of Consumer Affairs",
+    "problemStatementTitle": "Blockchain-based system for product authentication and combating counterfeiting.",
+    "category": "Software",
+    "psNumber": "SIH25058",
+    "submittedIdeasCount": "5/300",
+    "theme": "Blockchain & Cybersecurity"
+  },
+  {
+    "sNo": 60,
+    "organization": "Ministry of Skill Development and Entrepreneurship",
+    "problemStatementTitle": "AI-driven platform for skill-gap analysis and personalized training recommendations.",
+    "category": "Software",
+    "psNumber": "SIH25059",
+    "submittedIdeasCount": "2/300",
+    "theme": "Education & Research"
+  },
+  {
+    "sNo": 61,
+    "organization": "Government of Chhattisgarh",
+    "problemStatementTitle": "Hardware solution for automated crop harvesting using robotics and AI.",
+    "category": "Hardware",
+    "psNumber": "SIH25060",
+    "submittedIdeasCount": "0/300",
+    "theme": "Agriculture & Sustainability"
+  },
+  {
+    "sNo": 62,
+    "organization": "Ministry of New and Renewable Energy",
+    "problemStatementTitle": "AI-based predictive maintenance for solar power plants.",
+    "category": "Software",
+    "psNumber": "SIH25061",
+    "submittedIdeasCount": "3/300",
+    "theme": "Energy & Resources"
+  },
+  {
+    "sNo": 63,
+    "organization": "Government of Bihar",
+    "problemStatementTitle": "IoT-based system for monitoring and controlling air pollution from brick kilns.",
+    "category": "Hardware",
+    "psNumber": "SIH25062",
+    "submittedIdeasCount": "1/300",
+    "theme": "Environment & Sustainability"
+  },
+  {
+    "sNo": 64,
+    "organization": "Ministry of Communication",
+    "problemStatementTitle": "AI-powered system for detecting and blocking fraudulent calls and messages.",
+    "category": "Software",
+    "psNumber": "SIH25063",
+    "submittedIdeasCount": "4/300",
+    "theme": "Blockchain & Cybersecurity"
+  },
+  {
+    "sNo": 65,
+    "organization": "Government of Tamil Nadu",
+    "problemStatementTitle": "AI-based tool for historical document and manuscript digitization and analysis.",
+    "category": "Software",
+    "psNumber": "SIH25064",
+    "submittedIdeasCount": "2/300",
+    "theme": "Heritage & Culture"
+  },
+  {
+    "sNo": 66,
+    "organization": "Ministry of Heavy Industries",
+    "problemStatementTitle": "Hardware for real-time monitoring of heavy machinery and industrial assets.",
+    "category": "Hardware",
+    "psNumber": "SIH25065",
+    "submittedIdeasCount": "1/300",
+    "theme": "Industry & Innovation"
+  },
+  {
+    "sNo": 67,
+    "organization": "Ministry of Health",
+    "problemStatementTitle": "Smart wearable device for continuous health monitoring and emergency alerts.",
+    "category": "Hardware",
+    "psNumber": "SIH25066",
+    "submittedIdeasCount": "5/300",
+    "theme": "MedTech / BioTech / HealthTech"
+  },
+  {
+    "sNo": 68,
+    "organization": "Government of Karnataka",
+    "problemStatementTitle": "AI-powered predictive maintenance for urban public transport vehicles.",
+    "category": "Software",
+    "psNumber": "SIH25067",
+    "submittedIdeasCount": "3/300",
+    "theme": "Transportation & Logistics"
+  },
+  {
+    "sNo": 69,
+    "organization": "Ministry of Jal Shakti",
+    "problemStatementTitle": "AI-based platform for optimizing rainwater harvesting systems in urban areas.",
+    "category": "Software",
+    "psNumber": "SIH25068",
+    "submittedIdeasCount": "2/300",
+    "theme": "Environment & Sustainability"
+  },
+  {
+    "sNo": 70,
+    "organization": "AICTE",
+    "problemStatementTitle": "Hardware solution for an automated waste segregation system for academic institutions.",
+    "category": "Hardware",
+    "psNumber": "SIH25069",
+    "submittedIdeasCount": "1/300",
+    "theme": "Smart Automation"
+  }
+]

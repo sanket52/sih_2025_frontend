@@ -1,0 +1,42 @@
+/* Theme.css */
+
+.card {
+  background-color: #fffaf5;
+  border: 1px solid orange;
+  border-radius: 12px;
+  padding: 25px;
+  margin: 10px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card img {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto 15px auto; /* auto left & right = center */
+  display: block;           /* ensures it respects margin auto */
+  object-fit: contain;
+}
+
+.card h4 {
+  font-size: 1.1rem;
+  color: #1f2c4c;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.card p {
+  font-size: 0.95rem;
+  color: #333;
+  line-height: 1.4;
+}
+
+/* Optional: add some margin around the entire carousel section */
+.mt-5 {
+  margin-top: 4rem;
+}

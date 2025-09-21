@@ -1,0 +1,67 @@
+/* Sport.css */
+.faq-section {
+ margin-left: 14%;
+ margin-right: 10%;
+  max-width: 90%;
+}
+
+.faq-title {
+  color: #f75700;
+  font-size: 50px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  border-left: 5px solid #f75700;
+  padding-left: 10px;
+}
+/* Teams.css */
+.faq-item {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin: 10px 0;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.faq-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 30px;
+  font-size: 180%;
+  font-weight: 600;
+  background: #f9f9f9;
+  color: #333;
+  transition: background 0.3s;
+}
+
+.faq-header:hover {
+  background: #ffe8dc; /* light orange hover */
+}
+
+.faq-toggle {
+  font-size: 20px;
+  color: #f75700;
+  font-weight: bold;
+}
+
+.faq-content {
+  padding: 30px 30px;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #555;
+  background: #fff;
+  border-top: 1px solid #eee;
+  animation: fadeIn 0.3s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

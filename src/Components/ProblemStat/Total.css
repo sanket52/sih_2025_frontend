@@ -1,0 +1,34 @@
+.table-container {
+  overflow-x: auto;
+  font-family: Arial, sans-serif;
+}
+
+.problem-statement-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.problem-statement-table th,
+.problem-statement-table td {
+  border: 1px solid #e0e0e0;
+  padding: 12px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.problem-statement-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+  color: #333;
+  white-space: nowrap;
+}
+
+/* Specific column widths to match the image layout */
+.problem-statement-table td:nth-child(1) { width: 5%; }
+.problem-statement-table td:nth-child(2) { width: 15%; }
+.problem-statement-table td:nth-child(3) { width: 40%; }
+.problem-statement-table td:nth-child(4) { width: 10%; }
+.problem-statement-table td:nth-child(5) { width: 10%; }
+.problem-statement-table td:nth-child(6) { width: 10%; }
+.problem-statement-table td:nth-child(7) { width: 10%; }
