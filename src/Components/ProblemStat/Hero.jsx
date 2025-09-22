@@ -17,7 +17,7 @@ const Hero = () => {
         <div>
           <h1
             className="position-absolute top-50 start-50 translate-middle fw-bold text-white text-uppercase"
-            style={{ fontSize: "80px" }}
+            style={{ fontSize: "70px" }}
           >
             Problem Statements
           </h1>
